@@ -1,0 +1,15 @@
+# Environments
+venv/
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Visual Studio stuff:
+.vscode
+
+# Compiled code
+*.pyc
+
+__pycache__
